@@ -1,0 +1,212 @@
+[
+  {
+ "matchSummary": [
+	{
+      "team1": "SA WMN",
+      "team2": "SL WMN",
+      "winner": "SL WMN",
+      "margin": "3 runs",
+      "ground": "Cape Town",
+      "matchDate": "Feb 10, 2023",
+      "scorecard": "WT20I # 1354"
+    },
+    {
+      "team1": "ENG WMN",
+	  "team2": "WI WMN",
+	  "winner": "ENG WMN",
+      "margin": "7 wickets",
+      "ground": "Paarl",
+      "matchDate": "Feb 11, 2023",
+      "scorecard": "WT20I # 1356"
+      },
+      {
+        "team1": "AUS WMN",
+        "team2": "NZ WMN", 
+        "winner": "AUS WMN",
+        "margin": "97 runs",
+        "ground": "Paarl", 
+        "matchDate": "Feb 11, 2023",
+        "scorecard": "WT20I # 1357"
+      },
+      {
+        "team1": "India Women", 
+        "team2": "PAK WMN", 
+        "winner": "India Women",
+        "margin": "7 wickets",
+        "ground": "Cape Town", 
+        "matchDate": "Feb 12, 2023", 
+        "scorecard": "WT20I # 1359" 
+      },
+      { 
+        "team1": "BDESH WMN",
+        "team2": "SL WMN",
+        "winner": "SL WMN",
+        "margin": "7 wickets",
+        "ground": "Cape Town",
+        "matchDate": "Feb 12, 2023",
+        "scorecard": "WT20I # 1360"
+      },
+      {
+        "team1": "ENG WMN",
+        "team2": "IRE WMN",
+        "winner": "ENG WMN",
+        "margin": "4 wickets",
+        "ground": "Paarl",
+        "matchDate": "Feb 13, 2023",
+        "scorecard": "WT20I # 1361"
+      },
+      {
+        "team1": "SA WMN",
+        "team2": "NZ WMN",
+        "winner": "SA WMN",
+        "margin": "65 runs",
+        "ground": "Paarl",
+        "matchDate": "Feb 13, 2023",
+        "scorecard": "WT20I # 1362"
+      },
+      {
+        "team1": "AUS WMN",
+        "team2": "BDESH WMN",
+        "winner": "AUS WMN",
+        "margin": "8 wickets",
+        "ground": "Gqeberha",
+        "matchDate": "Feb 14, 2023",
+        "scorecard": "WT20I # 1363"
+      },
+      {
+        "team1": "India Women",
+        "team2": "WI WMN",
+        "winner": "India Women",
+        "margin": "6 wickets",
+        "ground": "Cape Town",
+        "matchDate": "Feb 15, 2023",
+        "scorecard": "WT20I # 1364"
+      },
+      {
+        "team1": "IRE WMN",
+        "team2": "PAK WMN",
+        "winner": "PAK WMN",
+        "margin": "70 runs",
+        "ground": "Cape Town",
+        "matchDate": "Feb 15, 2023",
+        "scorecard": "WT20I # 1365"
+      },
+      {
+        "team1": "AUS WMN",
+        "team2": "SL WMN",
+        "winner": "AUS WMN",
+        "margin": "10 wickets",
+        "ground": "Gqeberha",
+        "matchDate": "Feb 16, 2023",
+        "scorecard": "WT20I # 1366"
+      },
+      {
+        "team1": "BDESH WMN",
+        "team2": "NZ WMN",
+        "winner": "NZ WMN",
+        "margin": "71 runs",
+        "ground": "Cape Town",
+        "matchDate": "Feb 17, 2023",
+        "scorecard": "WT20I # 1367"
+      },
+      {
+        "team1": "IRE WMN",
+        "team2": "WI WMN",
+        "winner": "WI WMN",
+        "margin": "6 wickets",
+        "ground": "Cape Town",
+        "matchDate": "Feb 17, 2023",
+        "scorecard": "WT20I # 1368"
+      },
+      {
+        "team1": "ENG WMN",
+        "team2": "India Women",
+        "winner": "ENG WMN",
+        "margin": "11 runs",
+        "ground": "Gqeberha",
+        "matchDate": "Feb 18, 2023",
+        "scorecard": "WT20I # 1369"
+      },
+      {
+        "team1": "SA WMN",
+        "team2": "AUS WMN",
+        "winner": "AUS WMN",
+        "margin": "6 wickets",
+        "ground": "Gqeberha",
+        "matchDate": "Feb 18, 2023",
+        "scorecard": "WT20I # 1370"
+      },
+      {
+        "team1": "PAK WMN",
+        "team2": "WI WMN",
+        "winner": "WI WMN",
+        "margin": "3 runs",
+        "ground": "Paarl",
+        "matchDate": "Feb 19, 2023",
+        "scorecard": "WT20I # 1371"
+      },
+      {
+        "team1": "NZ WMN",
+        "team2": "SL WMN",
+        "winner": "NZ WMN",
+        "margin": "102 runs",
+        "ground": "Paarl",
+        "matchDate": "Feb 19, 2023",
+        "scorecard": "WT20I # 1372"
+      },
+      {
+        "team1": "India Women",
+        "team2": "IRE WMN",
+        "winner": "India Women",
+        "margin": "5 runs",
+        "ground": "Gqeberha",
+        "matchDate": "Feb 20, 2023",
+        "scorecard": "WT20I # 1373"
+      },
+      {
+        "team1": "ENG WMN",
+        "team2": "PAK WMN",
+        "winner": "ENG WMN",
+        "margin": "114 runs",
+        "ground": "Cape Town",
+        "matchDate": "Feb 21, 2023",
+        "scorecard": "WT20I # 1374"
+      },
+      {
+        "team1": "SA WMN",
+        "team2": "BDESH WMN",
+        "winner": "SA WMN",
+        "margin": "10 wickets",
+        "ground": "Cape Town",
+        "matchDate": "Feb 21, 2023",
+        "scorecard": "WT20I # 1375"
+      },
+      {
+        "team1": "AUS WMN",
+        "team2": "India Women",
+        "winner": "AUS WMN",
+        "margin": "5 runs",
+        "ground": "Cape Town",
+        "matchDate": "Feb 23, 2023",
+        "scorecard": "WT20I # 1376"
+      },
+      {
+        "team1": "SA WMN",
+        "team2": "ENG WMN",
+        "winner": "SA WMN",
+        "margin": "6 runs",
+        "ground": "Cape Town",
+        "matchDate": "Feb 24, 2023",
+        "scorecard": "WT20I # 1377"
+      },
+      {
+        "team1": "SA WMN",
+        "team2": "AUS WMN",
+        "winner": "AUS WMN",
+        "margin": "19 runs",
+        "ground": "Cape Town",
+        "matchDate": "Feb 26, 2023",
+        "scorecard": "WT20I # 1378"
+      }]
+    }
+]
